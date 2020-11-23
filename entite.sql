@@ -1,1 +1,2 @@
-INSERT INTO `T_TRADUCTION_LIBELLE` (`ID_TRADUCTION`, `LANG`, `LIBELLE`) VALUES (20014, 'ar', 'وجدة');
+
+update `T_TRADUCTION_LIBELLE` set `LIBELLE='وجدة' where id_traduction='20014' and lang='ar';
