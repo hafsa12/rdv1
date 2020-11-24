@@ -1,7 +1,6 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<xliff version="1.0">
-<file datatype="plaintext" date="2020-10-01T11:13:20+01:00" original="I18N Example IndexPage" source-language="AR" target-language="AR-AR">
-<body>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff version="1.0"><file datatype="plaintext" date="2010-12-30T12:52:07+01:00" original="I18N Example IndexPage" source-language="AR" target-language="AR-AR"><body>
+
 <trans-unit id="1">
 <source>CHAMP_OBLIGATOIRE</source>
 <target>معلومة اجبارية</target>
