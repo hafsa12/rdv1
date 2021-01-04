@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff version="1.0">
+<file datatype="plaintext" date="2010-12-30T12:52:07+01:00" original="I18N Example IndexPage" source-language="AR" target-language="AR-AR">
+<body>
+<trans-unit id="1">
+<source>CHAMP_OBLIGATOIRE</source>
+<target>معلومة اجبارية</target>
+</trans-unit>
+<trans-unit id="2">
+<source>CHAMPS_OBLIGATOIRES</source>
+<target>معلومات إجبارية</target>
+</trans-unit>
+<trans-unit id="3">
+<source>MONTH1</source>
+<target>يناير</target>
+</trans-unit>
+<trans-unit id="4">
+<source>MONTH2</source>
+<target>فبراير</target>
+</trans-unit>
+<trans-unit id="5">
+<source>MONTH3</source>
+<target>مارس</target>
+</trans-unit>
+<trans-unit id="6">
+<source>MONTH4</source>
+<target>أبريل</target>
+</trans-unit>
+<trans-unit id="7">
+<source>MONTH5</source>
+<target>ماي</target>
+</trans-unit>
+<trans-unit id="8">
+<source>MONTH6</source>
+<target>يونيو</target>
+</trans-unit>
+<trans-unit id="9">
+<source>MONTH7</source>
+<target>يوليوز</target>
+</trans-unit>
+<trans-unit id="10">
+<source>MONTH8</source>
+<target>غشت</target>
+</trans-unit>
+<trans-unit id="11">
+<source>MONTH9</source>
+<target>شتنبر</target>
+</trans-unit>
+<trans-unit id="12">
+<source>MONTH10</source>
+<target>أكتوبر</target>
+</trans-unit>
+<trans-unit id="13">
+<source>MONTH11</source>
+<target>نونبر</target>
+</trans-unit>
+<trans-unit id="14">
+<source>MONTH12</source>
+<target>دجنبر</target>
+</trans-unit>
+<trans-unit id="15">
+<source>MOIS_SUIVANT</source>
+<target>الشهر التالي</target>
+</trans-unit>
+<trans-unit id="16">
+<source>MOIS_PRECEDENT</source>
+<target>الشهر السابق</target>
+</trans-unit>
+<trans-unit id="17">
+<source>DAY1</source>
+<target>الإثنين</target>
+</trans-unit>
+<trans-unit id="18">
+<source>DAY2</source>
+<target>الثلاثاء</target>
+</trans-unit>
+<trans-unit id="19">
+<source>DAY3</source>
+<target>الأربعاء</target>
+</trans-unit>
+<trans-unit id="20">
+<source>DAY4</source>
+<target>الخميس</target>
+</trans-unit>
+<trans-unit id="21">
+<source>DAY5</source>
+<target>الجمعة</target>
+</trans-unit>
+<trans-unit id="22">
+<source>DAY6</source>
+<target>السبت</target>
+</trans-unit>
+<trans-unit id="23">
+<source>DAY7</source>
+<target>الأحد</target>
+</trans-unit>
+<trans-unit id="24">
+<source>ETABLISSEMENT</source>
+<target>المحكمة</target>
+</trans-unit>
+<trans-unit id="25">
+<source>TOUS</source>
+<target>الكل</target>
+</trans-unit>
+<trans-unit id="26">
+<source>SELECTIONNEZ</source>
+<target>إختر</target>
+</trans-unit>
+<trans-unit id="27">
+<source>NIVEAU1</source>
+<target>نوع الخدمة</target>
+</trans-unit>
+<trans-unit id="28">
+<source>NIVEAU2</source>
+<target>الخدمة</target>
+</trans-unit>
+<trans-unit id="29">
+<source>NIVEAU3</source>
+<target>المسؤول</target>
+</trans-unit>
+<trans-unit id="30">
+<source>SUIVANT</source>
+<target>التالي</target>
+</trans-unit>
+<trans-unit id="31">
+<source>TITLE_PLATEFORME</source>
+<target> البوابة الإلكترونية لأخد المواعيد بالمستشفيات المغربية</target>
+</trans-unit>
+<trans-unit id="32">
+<source>ACCUEIL</source>
+<target>الرئسية</target>
+</trans-unit>
+<trans-unit id="33">
+<source>PRENDRE_UN_RENDEZ_VOUS</source>
+<target>أخذ موعد</target>
+</trans-unit>
+<trans-unit id="34">
+<source>GERER_MES_RENDEZ_VOUS</source>
+<target>تتبع مواعيدي</target>
+</trans-unit>
+<trans-unit id="35">
+<source>LANGUE</source>
+<target>اللغة</target>
+</trans-unit>
+<trans-unit id="36">
+<source>LANG_FR</source>
+<target>الفرنسية</target>
+</trans-unit>
+<trans-unit id="37">
+<source>LANG_AR</source>
+<target>العربية</target>
+</trans-unit>
+<trans-unit id="38">
+<source>ACCEDER</source>
+<target>دخول</target>
+</trans-unit>
+<trans-unit id="39">
+<source>MESSAGE_PRENDRE_UN_RENDEZ_VOUS</source>
+<target>: لأخد موعد، إضغط على الرابط التالي</target>
+</trans-unit>
+<trans-unit id="40">
+<source>MESSAGE_GERER_MES_RENDEZ_VOUS</source>
+<target>: للإطلاع على مواعيدك أو تتبعها، إضغط على الرابط التالي</target>
+</trans-unit>
+<trans-unit id="41">
+<source>OU</source>
+<target>أين؟</target>
+</trans-unit>
+<trans-unit id="42">
+<source>QUOI</source>
+<target>الموضوع</target>
+</trans-unit>
+<trans-unit id="43">
+<source>VOIR_LES_DISPONIBILTES</source>
+<target>الإطلاع على الأوقات المتوفرة</target>
+</trans-unit>
+<trans-unit id="44">
+<source>VILLE_OU_NOM_ETABLISSEMENT</source>
+<target>مدينة أو الإدارة</target>
+</trans-unit>
+<trans-unit id="45">
+<source>MOTS_CLES</source>
+<target>البحث ب</target>
+</trans-unit>
+<trans-unit id="46">
+<source>CHOIX_ETABLISSEMENT</source>
+<target>اختيار المحكمة</target>
+</trans-unit>
+<trans-unit id="47">
+<source>CHOIX_ORGANISATION</source>
+<target>إختيار المنظمة</target>
+</trans-unit>
+<trans-unit id="48">
+<source>CHOIX_CRENEAU</source>
+<target>إختيار التوقيت</target>
+</trans-unit>
+<trans-unit id="49">
+<source>VALIDATION</source>
+<target>إدراج المعلومات</target>
+</trans-unit>
+<trans-unit id="50">
+<source>CONFIRMATION</source>
+<target>تأكيد الموعد</target>
+</trans-unit>
+<trans-unit id="51">
+<source>QUAND</source>
+<target>متى</target>
+</trans-unit>
+<trans-unit id="52">
+<source>VEUILLEZ_SELECTIONNEZ_LA_DATE_SOUHAITE</source>
+<target>المرجو اختيار تاريخ الموعد</target>
+</trans-unit>
+<trans-unit id="53">
+<source>VEUILLEZ_PATIENTER</source>
+<target>المرجو الانتظار</target>
+</trans-unit>
+<trans-unit id="54">
+<source>VEUILLEZ_SELECTIONNEZ_UN_HORAIRE</source>
+<target>اختيار التوقيت المتاح خلال هذا اليوم</target>
+</trans-unit>
+<trans-unit id="55">
+<source>DENOMINATION_ORGANISATION</source>
+<target>اسم المنظمة</target>
+</trans-unit>
+<trans-unit id="56">
+<source>DENOMINATION_ETABLISSEMENT</source>
+<target>اسم المحكمة</target>
+</trans-unit>
+<trans-unit id="57">
+<source>ADRESSE</source>
+<target>العنوان</target>
+</trans-unit>
+<trans-unit id="58">
+<source>TELEPHONE</source>
+<target>الهاتف</target>
+</trans-unit>
+<trans-unit id="59">
+<source>TELEPHONE_POUR_PRISE_RDV</source>
+<target>رقم الهاتف لأخذ المواعيد</target>
+</trans-unit>
+<trans-unit id="60">
+<source>TEXT_TELEPHONE_PRISE_RDV</source>
+<target>لأخذ موعد عن طريق الهاتف، اتصل على :</target>
+</trans-unit>
+<trans-unit id="61">
+<source>EMAIL</source>
+<target>البريد الإلكتروني</target>
+</trans-unit>
+<trans-unit id="62">
+<source>EMAIL_INVALID</source>
+<target>العنوان الإلكتروني غير صحيح</target>
+</trans-unit>
+<trans-unit id="63">
+<source>EMAIL_OU_TELEPHONE_OBLIGATOIRE</source>
+<target>المرجو إدخال إما عنوان البريد الإلكتروني أو الهاتف</target>
+</trans-unit>
+<trans-unit id="64">
+<source>DESCRIPTION</source>
+<target>تفصيل</target>
+</trans-unit>
+<trans-unit id="65">
+<source>ENREGISTRER</source>
+<target>حفظ</target>
+</trans-unit>
+<trans-unit id="66">
+<source>ORGANISATION</source>
+<target>المنظمة</target>
+</trans-unit>
+<trans-unit id="67">
+<source>ENTITE_1</source>
+<target>الدائرة القضائية</target>
+</trans-unit>
+<trans-unit id="68">
+<source>ENTITE_2</source>
+<target>محكمة الاستئناف</target>
+</trans-unit>
+<trans-unit id="69">
+<source>ENTITE_3</source>
+<target>المدينة</target>
+</trans-unit>
+<trans-unit id="70">
+<source>CORDONNEES</source>
+<target>عنوان المحكمة</target>
+</trans-unit>
+<trans-unit id="71">
+<source>LOCALISATION</source>
+<target>تحديد الموقع</target>
+</trans-unit>
+<trans-unit id="72">
+<source>LOCALISER_SUR_UNE_CARTE</source>
+<target>تحديد الموقع على الخريطة</target>
+</trans-unit>
+<trans-unit id="73">
+<source>GEOLOCALISATION</source>
+<target>تحديد الموقع الجغرافي</target>
+</trans-unit>
+<trans-unit id="74">
+<source>DEPLACER_MARQUEUR</source>
+<target>نقل المؤشر</target>
+</trans-unit>
+<trans-unit id="75">
+<source>LIEU_ETABLISSEMENT</source>
+<target>المدينة</target>
+</trans-unit>
+<trans-unit id="76">
+<source>VALIDER</source>
+<target>موافقة</target>
+</trans-unit>
+<trans-unit id="77">
+<source>ANNULER</source>
+<target>إلغاء</target>
+</trans-unit>
+<trans-unit id="78">
+<source>ANNULER/NON_HONORE</source>
+<target>إلغاء / متغيب</target>
+</trans-unit>
+<trans-unit id="79">
+<source>VALIDATION_DU_RENDEZ_VOUS</source>
+<target>الموافقة على الموعد</target>
+</trans-unit>
+<trans-unit id="80">
+<source>RECAPITULATIF_DE_VOTRE_DEMANDE_DE_RENDEZ_VOUS</source>
+<target> ملخص الموعد:</target>
+</trans-unit>
+<trans-unit id="81">
+<source>PLAN_D_ACCES</source>
+<target>خريطة الوصول</target>
+</trans-unit>
+<trans-unit id="82">
+<source>MESSAGE_CONFIRMATION_RENDEZ_VOUS</source>
+<target> لتأكيد الموعد، المرجو ملء الخانات أدناه :</target>
+</trans-unit>
+<trans-unit id="83">
+<source>A</source>
+<target>على الساعة</target>
+</trans-unit>
+<trans-unit id="84">
+<source>LE</source>
+<target>بتاريخ</target>
+</trans-unit>
+<trans-unit id="85">
+<source>ET</source>
+<target>و</target>
+</trans-unit>
+<trans-unit id="86">
+<source>CREE_ENTRE</source>
+<target>أخد</target>
+</trans-unit>
+<trans-unit id="87">
+<source>HORAIRES</source>
+<target>توقيت</target>
+</trans-unit>
+<trans-unit id="88">
+<source>RETOUR</source>
+<target>رجوع</target>
+</trans-unit>
+<trans-unit id="89">
+<source>NOM</source>
+<target>الاسم العائلي</target>
+</trans-unit>
+<trans-unit id="90">
+<source>PRENOM</source>
+<target>الاسم الشخصي</target>
+</trans-unit>
+<trans-unit id="91">
+<source>NOM_UTILISATEUR</source>
+<target>النسب</target>
+</trans-unit>
+<trans-unit id="92">
+<source>PRENOM_UTILISATEUR</source>
+<target>الإسم</target>
+</trans-unit>
+<trans-unit id="93">
+<source>IDENTIFIANT</source>
+<target>رقم التعريف</target>
+</trans-unit>
+<trans-unit id="94">
+<source>VALIDER_VOTRE_RESERVATION</source>
+<target>الموافقة على حجز الموعد</target>
+</trans-unit>
+<trans-unit id="95">
+<source>CONFIRMATION_DU_RENDEZ_VOUS</source>
+<target>تأكيد حجز الموعد</target>
+</trans-unit>
+<trans-unit id="96">
+<source>VOTRE_DEMANDE_DE_RENDEZ_VOUS_A_BIEN_ETE_PRISE_EN_COMPTE</source>
+<target>لقد تم تسجيل الموعد</target>
+</trans-unit>
+<trans-unit id="97">
+<source>TEXT_COMPTE_ERRONNE</source>
+<target>اسم المستخدم أو كلمة المرور خاطئة</target>
+</trans-unit>
+<trans-unit id="98">
+<source>DEFINE_BONJOUR</source>
+<target>مرحبا,</target>
+</trans-unit>
+<trans-unit id="99">
+<source>LE_COMPTE</source>
+<target>الحساب </target>
+</trans-unit>
+<trans-unit id="100">
+<source>CORPS_MESSAGE_DESACTIVATION</source>
+<target>التالي تم تعطيله بعد ثلاث محاولات بكلمات سر خاطئة :</target>
+</trans-unit>
+<trans-unit id="101">
+<source>PIED_MESSAGE_DESACTIVATION</source>
+<target>من الممكن تفعيل حسابكم وذلك بالدخول إلى الخدمة "نسيت كلمة المرور" عبر البوابة</target>
+</trans-unit>
+<trans-unit id="102">
+<source>CORDIALEMENT</source>
+<target>التحيات</target>
+</trans-unit>
+<trans-unit id="103">
+<source>NOM_ETABLISSEMENT_ENVOYANT_MSG</source>
+<target>مؤسسة إختبار</target>
+</trans-unit>
+<trans-unit id="104">
+<source>TEXT_ADRESSE_ELECTRONIQUE</source>
+<target>البريد الإلكتروني</target>
+</trans-unit>
+<trans-unit id="105">
+<source>TEXT_IDENTIFIANT</source>
+<target>إسم المستخدم</target>
+</trans-unit>
+<trans-unit id="106">
+<source>OBJET_DESACTIVATION_COMPTE</source>
+<target>تعطيل حسابك</target>
+</trans-unit>
+<trans-unit id="107">
+<source>IDENTIFICATION_UTILISATEUR</source>
+<target>تعريف المستخدم</target>
+</trans-unit>
+<trans-unit id="108">
+<source>PROFIL_UTILISATEUR</source>
+<target>نوعية حساب المستخدم</target>
+</trans-unit>
+<trans-unit id="109">
+<source>PASSWORD_CONFIRM</source>
+<target>تأكيد كلمة السر</target>
+</trans-unit>
+<trans-unit id="110">
+<source>PASSWORD</source>
+<target>كلمة السر</target>
+</trans-unit>
+<trans-unit id="111">
+<source>ADMINISTRATION</source>
+<target>إدارة</target>
+</trans-unit>
+<trans-unit id="112">
+<source>GESTION_UTILISATEURS</source>
+<target>تسيير المستخدمين</target>
+</trans-unit>
+<trans-unit id="113">
+<source>NBRE_RESULTATS</source>
+<target>عدد النتائج</target>
+</trans-unit>
+<trans-unit id="114">
+<source>AFFICHER</source>
+<target>عرض</target>
+</trans-unit>
+<trans-unit id="115">
+<source>RESULTATS_PAR_PAGE</source>
+<target>نتائج بالصفحة</target>
+</trans-unit>
+<trans-unit id="116">
+<source>ALLER_A_LA_PREMIERE_PAGE</source>
+<target>الذهاب إلى الصفحة الأولى</target>
+</trans-unit>
+<trans-unit id="117">
+<source>PREMIERE_PAGE</source>
+<target>الصفحة الأولى</target>
+</trans-unit>
+<trans-unit id="118">
+<source>ALLER_A_LA_PAGE_PRECEDENTE</source>
+<target>الانتقال إلى الصفحة السابقة</target>
+</trans-unit>
+<trans-unit id="119">
+<source>PAGE_PRECEDENTE</source>
+<target>الصفحة السابقة</target>
+</trans-unit>
+<trans-unit id="120">
+<source>ALLER_A_LA_PAGE_SUIVANTE</source>
+<target>الذهاب إلى الصفحة التالية</target>
+</trans-unit>
+<trans-unit id="121">
+<source>PAGE_SUIVANTE</source>
+<target>الصفحة التالية</target>
+</trans-unit>
+<trans-unit id="122">
+<source>ALLER_A_LA_DERNIERE_PAGE</source>
+<target>الذهاب إلى الصفحة الأخيرة</target>
+</trans-unit>
+<trans-unit id="123">
+<source>DERNIERE_PAGE</source>
+<target>الصفحة الأخيرة</target>
+</trans-unit>
+<trans-unit id="124">
+<source>MAIL</source>
+<target>البريد الإلكتروني</target>
+</trans-unit>
+<trans-unit id="125">
+<source>ACTIONS</source>
+<target>إجراءات</target>
+</trans-unit>
+<trans-unit id="126">
+<source>MODIFIER</source>
+<target>تعديل</target>
+</trans-unit>
+<trans-unit id="127">
+<source>SUPPRIMER</source>
+<target>حذف</target>
+</trans-unit>
+<trans-unit id="128">
+<source>AJOUTER_UTILISATEUR</source>
+<target>إضافة مستخدم</target>
+</trans-unit>
+<trans-unit id="129">
+<source>TOUS_LES_AGENTS</source>
+<target>جميع المستخدمين</target>
+</trans-unit>
+<trans-unit id="130">
+<source>BIENVENUE_CONSOLE_ADMIN_RDV</source>
+<target>مرحبا بكم في وحدة إدارة بوابة أخد المواعيد</target>
+</trans-unit>
+<trans-unit id="131">
+<source>VEUILLEZ_VS_AUTHENTIFIER</source>
+<target>: المرجو تسجيل الدخول</target>
+</trans-unit>
+<trans-unit id="132">
+<source>DEFINE_DECONNEXION</source>
+<target>خروج</target>
+</trans-unit>
+<trans-unit id="133">
+<source>DEFINE_STRUCTURE</source>
+<target>الهيكلة</target>
+</trans-unit>
+<trans-unit id="134">
+<source>GESTION_ORGANISATIONS</source>
+<target>تسيير المنظمات</target>
+</trans-unit>
+<trans-unit id="135">
+<source>GESTION_ETABLISSEMENTS</source>
+<target>تسيير الإدارات</target>
+</trans-unit>
+<trans-unit id="136">
+<source>GESTION_TYPES_PRESTATIONS</source>
+<target>تسيير أنواع الخدمات</target>
+</trans-unit>
+<trans-unit id="137">
+<source>GESTION_PRESTATIONS</source>
+<target>تسيير الخدمات</target>
+</trans-unit>
+<trans-unit id="138">
+<source>ROLES</source>
+<target>الأدوار</target>
+</trans-unit>
+<trans-unit id="139">
+<source>GESTION_PROFILS</source>
+<target>تسيير أنواع المستخدمين</target>
+</trans-unit>
+<trans-unit id="140">
+<source>GESTION_RESSOURCES</source>
+<target>تسيير الموارد</target>
+</trans-unit>
+<trans-unit id="141">
+<source>AGENDAS</source>
+<target>مفكرات</target>
+</trans-unit>
+<trans-unit id="142">
+<source>GESTION_JOURS_FERIES</source>
+<target>تسيير أيام العطل</target>
+</trans-unit>
+<trans-unit id="143">
+<source>GESTION_INDISPONIBILITES</source>
+<target>فترات الغياب</target>
+</trans-unit>
+<trans-unit id="144">
+<source>MON_COMPTE</source>
+<target>حسابي</target>
+</trans-unit>
+<trans-unit id="145">
+<source>GERER_lES_RENDEZ_VOUS</source>
+<target>تتبع المواعيد</target>
+</trans-unit>
+<trans-unit id="146">
+<source>ALLER_AU_MENU</source>
+<target>الذهاب إلى القائمة</target>
+</trans-unit>
+<trans-unit id="147">
+<source>ALLER_AU_CONTENU</source>
+<target>الذهاب إلى المحتوى</target>
+</trans-unit>
+<trans-unit id="148">
+<source>LOCAL_TRUST_PRISE_RDV_2013</source>
+<target>بوابة أخذ المواعيد</target>
+</trans-unit>
+<trans-unit id="149">
+<source>ALLER_A_LA_PAGE</source>
+<target>إذهب إلى الصفحة</target>
+</trans-unit>
+<trans-unit id="150">
+<source>CONFIRMATION_SUPPRESSION</source>
+<target>تأكيد الحذف</target>
+</trans-unit>
+<trans-unit id="151">
+<source>MSG_SUPPRESSION_AGENT</source>
+<target>أنتم على وشك حذف المستخدم</target>
+</trans-unit>
+<trans-unit id="152">
+<source>MSG_SUPPRESSION_ORGANISATION</source>
+<target>أنتم على وشك حذف المنظمة</target>
+</trans-unit>
+<trans-unit id="153">
+<source>MSG_SUPPRESSION_ETABLISSEMENT</source>
+<target>أنتم على وشك حذف الإدارة</target>
+</trans-unit>
+<trans-unit id="154">
+<source>CONFIRMER</source>
+<target>تأكيد</target>
+</trans-unit>
+<trans-unit id="155">
+<source>AJOUTER_ORGANISATION</source>
+<target>إضافة منظمة</target>
+</trans-unit>
+<trans-unit id="156">
+<source>AJOUTER_PERIODE_INDISPONIBILITES</source>
+<target>إضافة فترة غياب</target>
+</trans-unit>
+<trans-unit id="157">
+<source>RECHERCHER_ORGANISATION</source>
+<target>البحث عن منظمة</target>
+</trans-unit>
+<trans-unit id="158">
+<source>RECHERCHER_UTILISATEUR</source>
+<target>البحث عن مستخدم</target>
+</trans-unit>
+<trans-unit id="159">
+<source>RECHERCHER_ETABLISSEMENT</source>
+<target>البحث عن الإدارة</target>
+</trans-unit>
+<trans-unit id="160">
+<source>RECHERCHER_TYPE_PRESTATION</source>
+<target>البحث عن نوع الخدمة</target>
+</trans-unit>
+<trans-unit id="161">
+<source>RECHERCHER_PRESTATION</source>
+<target>البحث عن خدمة</target>
+</trans-unit>
+<trans-unit id="162">
+<source>N_DE_LA_PAGE</source>
+<target>رقم الصفحة</target>
+</trans-unit>
+<trans-unit id="163">
+<source>NOMBRE_DE_RESULTAT_PAR_PAGE</source>
+<target>عدد النتائج بالصفحة الواحدة</target>
+</trans-unit>
+<trans-unit id="164">
+<source>AJOUTER_ETABLISSEMENT</source>
+<target>إضافة إدارة</target>
+</trans-unit>
+<trans-unit id="165">
+<source>COMMENTAIRE</source>
+<target>تعليق</target>
+</trans-unit>
+<trans-unit id="166">
+<source>LIBELLE_PRESTATION</source>
+<target>إسم الخدمة</target>
+</trans-unit>
+<trans-unit id="167">
+<source>LIBELLE_TYPE_PRESTATION</source>
+<target>إسم نوع الخدمة</target>
+</trans-unit>
+<trans-unit id="168">
+<source>AJOUTER_PRESTATION</source>
+<target>إضافة خدمة</target>
+</trans-unit>
+<trans-unit id="169">
+<source>MSG_SUPPRESSION_PRESTATION</source>
+<target>أنتم على وشك حذف خدمة</target>
+</trans-unit>
+<trans-unit id="170">
+<source>TYPE_PRESTATION</source>
+<target>نوع الخدمة</target>
+</trans-unit>
+<trans-unit id="171">
+<source>OUI</source>
+<target>نعم</target>
+</trans-unit>
+<trans-unit id="172">
+<source>NON</source>
+<target>لا</target>
+</trans-unit>
+<trans-unit id="173">
+<source>DELAI_MIN</source>
+<target>الأجل الأدنى قبل تحديد الموعد</target>
+</trans-unit>
+<trans-unit id="174">
+<source>RDV_SIMILAIRE</source>
+<target>يمكن للمواطن أخذ أكثر من موعد لهذه الخدمة في نفس اليوم</target>
+</trans-unit>
+<trans-unit id="175">
+<source>CODE_POSTAL</source>
+<target>الرمز البريدي</target>
+</trans-unit>
+<trans-unit id="176">
+<source>ENREGISTER</source>
+<target>حفظ</target>
+</trans-unit>
+<trans-unit id="177">
+<source>COPIE_ETABLISSEMENT</source>
+<target>إنشاء الإدارة إنطلاقا من أخرى</target>
+</trans-unit>
+<trans-unit id="178">
+<source>FACULTATIF</source>
+<target>اختياري</target>
+</trans-unit>
+<trans-unit id="179">
+<source>IDENTIFICATION_ORGANISATION</source>
+<target>خصائص المنظمة</target>
+</trans-unit>
+<trans-unit id="180">
+<source>IDENTIFICATION_ETABLISSEMENT</source>
+<target>خصائص</target>
+</trans-unit>
+<trans-unit id="181">
+<source>IDENTIFICATION_TYPE_PRESTATION</source>
+<target>خصائص نوع الخدمة</target>
+</trans-unit>
+<trans-unit id="182">
+<source>IDENTIFICATION_PRESTATION</source>
+<target>خصائص الخدمة</target>
+</trans-unit>
+<trans-unit id="183">
+<source>IDENTIFICATION_PERIODE_INDISPONIBILITES</source>
+<target>خصائص فترة الغياب</target>
+</trans-unit>
+<trans-unit id="184">
+<source>AJOUTER_PROFIL</source>
+<target>إضافة نوع حساب</target>
+</trans-unit>
+<trans-unit id="185">
+<source>CARACTERISTIQUES_PROFIL</source>
+<target>خصائص نوع الحساب </target>
+</trans-unit>
+<trans-unit id="186">
+<source>LIBELLE_PROFIL</source>
+<target>إسم نوع الحساب </target>
+</trans-unit>
+<trans-unit id="187">
+<source>TYPE_PROFIL</source>
+<target>نوع الحساب</target>
+</trans-unit>
+<trans-unit id="188">
+<source>LISTE_HABILITATIONS</source>
+<target>قائمة التراخيص</target>
+</trans-unit>
+<trans-unit id="189">
+<source>AGENDA</source>
+<target>مفكرة</target>
+</trans-unit>
+<trans-unit id="190">
+<source>NOM_PROFIL</source>
+<target>إسم نوع الحساب</target>
+</trans-unit>
+<trans-unit id="191">
+<source>MSG_SUPPRESSION_PROFIL</source>
+<target>أنتم على وشك حذف نوع الحساب التالي</target>
+</trans-unit>
+<trans-unit id="192">
+<source>PARAMETRAGE_JOURS_FERIES</source>
+<target>إعدادات أيام العطل</target>
+</trans-unit>
+<trans-unit id="193">
+<source>PARAMETRAGE_DUREES_INDISPONIBILITES</source>
+<target>إعدادات الفترات غير الشاغرة</target>
+</trans-unit>
+<trans-unit id="194">
+<source>VISUALISATION_RDV</source>
+<target>الإطلاع على المواعيد</target>
+</trans-unit>
+<trans-unit id="195">
+<source>GESTION_DES_RENDEZ_VOUS</source>
+<target>تتبع المواعيد</target>
+</trans-unit>
+<trans-unit id="196">
+<source>GESTION_AGENDA</source>
+<target>تسيير المفكرة</target>
+</trans-unit>
+<trans-unit id="197">
+<source>GESTION_ROLES</source>
+<target>تسيير الأدوار</target>
+</trans-unit>
+<trans-unit id="198">
+<source>GESTION_STRUCTURES</source>
+<target>تسيير الهيكلة</target>
+</trans-unit>
+<trans-unit id="199">
+<source>PRESTATIONS</source>
+<target>الخدمات</target>
+</trans-unit>
+<trans-unit id="200">
+<source>AJOUTER_TYPE_PRESTATION</source>
+<target>إضافة نوع خدمة</target>
+</trans-unit>
+<trans-unit id="201">
+<source>MESSAGE_CONFIRMATION_RESERVATION</source>
+<target>يمكنكم من حذف حجزكم ، بالضغط على الزر "تتبع مواعيدي" الموجود بالقائمة أو </target>
+</trans-unit>
+<trans-unit id="202">
+<source>L_ACCUEIL</source>
+<target>الرئسية</target>
+</trans-unit>
+<trans-unit id="203">
+<source>MESSAGE_CONFIRMATION_RESERVATION_EMAIL</source>
+<target>تم إرسال رسالة تأكيد بالبريد الإلكتروني إلى</target>
+</trans-unit>
+<trans-unit id="204">
+<source>AVEC</source>
+<target>مع :</target>
+</trans-unit>
+<trans-unit id="205">
+<source>VOTRE_CODE_DE_CONFIRMATION_EST_LE</source>
+<target> رمز التأكيد الخاص بك حسب التاريخ هو :</target>
+</trans-unit>
+<trans-unit id="206">
+<source>LE_RECAPITULATIF_DU_RENDEZ_VOUS_RESERVE</source>
+<target>ملخص الموعد المحجوز</target>
+</trans-unit>
+<trans-unit id="207">
+<source>LE_PLAN_D_ACCES_A_L_ETABLISSEMENT</source>
+<target>خريطة الوصول إلى الإدارة</target>
+</trans-unit>
+<trans-unit id="208">
+<source>LE_CODE_DE_CONFIRMATION</source>
+<target>رمز التأكيد</target>
+</trans-unit>
+<trans-unit id="209">
+<source>RETOUR_A_L_ACCUEIL</source>
+<target>رجوع إلى الرئسية</target>
+</trans-unit>
+<trans-unit id="210">
+<source>IMPRIMER</source>
+<target>طبع</target>
+</trans-unit>
+<trans-unit id="211">
+<source>MODIFIER_PASSWORD</source>
+<target>تغيير كلمة السر</target>
+</trans-unit>
+<trans-unit id="212">
+<source>VEUILLEZ_SAISIR_LES_INFORMATIONS_SUIVANTES</source>
+<target>المرجو إدخال المعلومات التالية</target>
+</trans-unit>
+<trans-unit id="213">
+<source>VEUILLEZ_SAISIR_AU_MOINS_UN_DES_DEUX_CHAMPS</source>
+<target>المرجو على الأقل ملء إحدى الخانتين</target>
+</trans-unit>
+<trans-unit id="214">
+<source>MESSAGE_RDV_PRIS</source>
+<target>الموعد الذي تم إختياره ليس متاحاً، المرجو إختيار موعد آخر</target>
+</trans-unit>
+<trans-unit id="215">
+<source>MESSAGE_RDV_SIMILAIRE</source>
+<target>لا يمكنك أخذ موعد إلا من يوم </target>
+</trans-unit>
+<trans-unit id="216">
+<source>CODE_DE_RESERVATION</source>
+<target>رقم الحجز</target>
+</trans-unit>
+<trans-unit id="217">
+<source>ANNULER_LE_RENDEZ_VOUS</source>
+<target>إلغاء الموعد</target>
+</trans-unit>
+<trans-unit id="218">
+<source>RENDEZ_VOUS_NON_HONORE</source>
+<target>عدم إحترام الموعد</target>
+</trans-unit>
+<trans-unit id="219">
+<source>VOUS_SOUHAITEZ_ANNULER_LE_RENDEZ_VOUS_SUIVANT</source>
+<target>هل ترغب في إلغاء الموعد التالي</target>
+</trans-unit>
+<trans-unit id="220">
+<source>ANNULATION_DU_RENDEZ_VOUS</source>
+<target>إلغاء موعد</target>
+</trans-unit>
+<trans-unit id="221">
+<source>MESSAGE_ANNULATION_RDV</source>
+<target>لقد تم إلغاء الموعد</target>
+</trans-unit>
+<trans-unit id="222">
+<source>MESSAGE_PRENDRE_NOUVEAU_RDV</source>
+<target>يمكنالحصول على موعد جديد، انقر الزر "أخذ موعد" بالقائمة</target>
+</trans-unit>
+<trans-unit id="223">
+<source>AUCUN_RENDEZ_VOUS_NE_CORRESPOND_A_VOS_CRITERES</source>
+<target>لا يوجد أي موعد مطابق لمعايير البحث</target>
+</trans-unit>
+<trans-unit id="224">
+<source>RENDEZ_VOUS_ANNULE</source>
+<target>موعد ملغى</target>
+</trans-unit>
+<trans-unit id="225">
+<source>MOTIF_ANNULATION</source>
+<target>سبب الإلغاء</target>
+</trans-unit>
+<trans-unit id="226">
+<source>MOTIF</source>
+<target>السبب</target>
+</trans-unit>
+<trans-unit id="227">
+<source>TITRE_BIENVENUE_ORGANISATION</source>
+<target>عنوان الترحيب</target>
+</trans-unit>
+<trans-unit id="228">
+<source>MESSAGE_BIENVENUE_ORGANISATION</source>
+<target>رسالة الترحيب</target>
+</trans-unit>
+<trans-unit id="229">
+<source>SELECTIONNEZ_ORGANISATION</source>
+<target>اختر المنظمة</target>
+</trans-unit>
+<trans-unit id="230">
+<source>AJOUTER_RESSOURCE</source>
+<target>إضافة مورد</target>
+</trans-unit>
+<trans-unit id="231">
+<source>CARACTERISTIQUES_RESSOURCE</source>
+<target>خصائص المورد</target>
+</trans-unit>
+<trans-unit id="232">
+<source>NOM_RESSOURCE</source>
+<target>نسب المورد</target>
+</trans-unit>
+<trans-unit id="233">
+<source>PRENOM_RESSOURCE</source>
+<target>إسم المورد</target>
+</trans-unit>
+<trans-unit id="234">
+<source>PRESTATIONS_ASSOCIEES</source>
+<target>الخدمات المرتبطة بالمورد البشري</target>
+</trans-unit>
+<trans-unit id="235">
+<source>AJOUT_PRESTATION_ASSOCIE</source>
+<target>إضافة خدمة متصلة</target>
+</trans-unit>
+<trans-unit id="236">
+<source>DUREE_RDV</source>
+<target>مدة الموعد</target>
+</trans-unit>
+<trans-unit id="237">
+<source>MINUTES</source>
+<target>دقيقة</target>
+</trans-unit>
+<trans-unit id="238">
+<source>HORAIRES_TRAVAIL</source>
+<target>توقيت العمل</target>
+</trans-unit>
+<trans-unit id="239">
+<source>DU</source>
+<target>من</target>
+</trans-unit>
+<trans-unit id="240">
+<source>AU</source>
+<target>إلى</target>
+</trans-unit>
+<trans-unit id="241">
+<source>JOUR</source>
+<target>اليوم</target>
+</trans-unit>
+<trans-unit id="242">
+<source>JOURS</source>
+<target>يوما</target>
+</trans-unit>
+<trans-unit id="243">
+<source>JOURS_PLRS</source>
+<target>أيام</target>
+</trans-unit>
+<trans-unit id="244">
+<source>MATIN</source>
+<target>الصباح</target>
+</trans-unit>
+<trans-unit id="245">
+<source>APRES_MIDI</source>
+<target>المساء</target>
+</trans-unit>
+<trans-unit id="246">
+<source>INDISPONIBLE</source>
+<target>غير متاح</target>
+</trans-unit>
+<trans-unit id="247">
+<source>DE</source>
+<target>من</target>
+</trans-unit>
+<trans-unit id="248">
+<source>A_FIN_HEURE</source>
+<target>إلى</target>
+</trans-unit>
+<trans-unit id="249">
+<source>SOIT</source>
+<target>ما يعادل</target>
+</trans-unit>
+<trans-unit id="250">
+<source>RDV</source>
+<target>موعد</target>
+</trans-unit>
+<trans-unit id="251">
+<source>AJOUTER_HORAIRES</source>
+<target>إضافة توقيت</target>
+</trans-unit>
+<trans-unit id="252">
+<source>PRESTATION_ASSOCIEE</source>
+<target>الخدمة المرتبطة بالمورد البشري</target>
+</trans-unit>
+<trans-unit id="253">
+<source>SUCCES_SUPRESSION_PRESTATION</source>
+<target>تم حذف الخدمة.</target>
+</trans-unit>
+<trans-unit id="254">
+<source>ERREUR_SUPRESSION_PRESTATION</source>
+<target>حدث مشكل أثناء محاولة حذف الخدمة</target>
+</trans-unit>
+<trans-unit id="255">
+<source>SUCCES_SUPRESSION_TYPE_PRESTATION</source>
+<target>تم حذف نوع الخدمة بنجاح.</target>
+</trans-unit>
+<trans-unit id="256">
+<source>ERREUR_SUPRESSION_TYPE_PRESTATION</source>
+<target>حدث مشكل أثناء محاولة حذف الخدمة.</target>
+</trans-unit>
+<trans-unit id="257">
+<source>SUCCES_SUPRESSION_ORGANISATION</source>
+<target>تم حذف المنظمة بنجاح.</target>
+</trans-unit>
+<trans-unit id="258">
+<source>ERREUR_SUPRESSION_ORGANISATION</source>
+<target>حدث مشكل أثناء محاولة حذف المنظمة .</target>
+</trans-unit>
+<trans-unit id="259">
+<source>SUCCES_SUPRESSION_ETABLISSEMENT</source>
+<target>تم حذف الإدارة بنجاح.</target>
+</trans-unit>
+<trans-unit id="260">
+<source>ERREUR_SUPRESSION_ETABLISSEMENT</source>
+<target>حدث مشكل أثناء محاولة حذف الإدارة.</target>
+</trans-unit>
+<trans-unit id="261">
+<source>ACTION_PRISE_EN_COMPTE</source>
+<target>تم أخذ هذه العملية بعين الإعتبار.</target>
+</trans-unit>
+<trans-unit id="262">
+<source>ERREUR_ENREGISTREMENT_RECOMMENCER</source>
+<target>حدث مشكل أثناء محاولة الحفظ. المرجو معاودة العملية.</target>
+</trans-unit>
+<trans-unit id="263">
+<source>RECHERCHER_RESSOURCE</source>
+<target>البحث عن مورد بشري</target>
+</trans-unit>
+<trans-unit id="264">
+<source>MSG_SUPPRESSION_RESSOURCE</source>
+<target>أنتم على وشك حذف مورد بشري .</target>
+</trans-unit>
+<trans-unit id="265">
+<source>ERREUR_SUPRESSION_RESSOURCE</source>
+<target>هذه العملية غير ممكنة : هذا المورد البشري مرتبط بمفكرة أو عدة مفكرات .</target>
+</trans-unit>
+<trans-unit id="266">
+<source>SUCCES_SUPRESSION_RESSOURCE</source>
+<target>تم حذف المورد البشري بنجاح .</target>
+</trans-unit>
+<trans-unit id="267">
+<source>ERREUR_SUPRESSION_PROFIL</source>
+<target>هذه العملية غير ممكنة : نوعية الحساب مرتبطة بحساب.</target>
+</trans-unit>
+<trans-unit id="268">
+<source>SUCCES_SUPRESSION_PROFIL</source>
+<target>تم حذف نوعية الحساب بنجاح</target>
+</trans-unit>
+<trans-unit id="269">
+<source>MSG_VALEUR_DUREE_RDV</source>
+<target>مدة الموعد يجب أن تكن أكبر من 0.</target>
+</trans-unit>
+<trans-unit id="270">
+<source>ERROR_FORMAT_DATE</source>
+<target>تاريخ غير صحيح .</target>
+</trans-unit>
+<trans-unit id="271">
+<source>ERROR_COMPARE_DATE</source>
+<target>تاريخ البداية يجب أن يكن أصغر من تاريخ النهاية .</target>
+</trans-unit>
+<trans-unit id="272">
+<source>NBRE_RDV_SUR_SITE</source>
+<target>عدد المواعيد في عين المكان .</target>
+</trans-unit>
+<trans-unit id="273">
+<source>MSG_ERREUR_NBRE_RDV_SUR_SITE</source>
+<target>هذه الخانة ضرورية، وصمتها يجب أن تكن أصغر من عدد المواعيد المحسوبة .</target>
+</trans-unit>
+<trans-unit id="274">
+<source>FORMAT_HEURE_INCORRECT</source>
+<target>الساعة غير صحيحة .</target>
+</trans-unit>
+<trans-unit id="275">
+<source>HEURE_DEBUT_MATIN_INCCORECTE</source>
+<target>ساعة البداية صباحا غير صحيحة .</target>
+</trans-unit>
+<trans-unit id="276">
+<source>HEURE_DEBUT_SOIR_INCCORECTE</source>
+<target>ساعة البداية مساءا غير صحيحة .</target>
+</trans-unit>
+<trans-unit id="277">
+<source>HEURE_DEBUT_FIN_INCCORECTE</source>
+<target>ساعة البداية يجب أن تكن أصغر من ساعة النهاية .</target>
+</trans-unit>
+<trans-unit id="278">
+<source>TELECHARGER_PLAN_ACCES</source>
+<target>تحميل خريطة الوصول</target>
+</trans-unit>
+<trans-unit id="279">
+<source>MODIFIER_PLAN_ACCES</source>
+<target>تغيير خريطة الوصول</target>
+</trans-unit>
+<trans-unit id="280">
+<source>MESSAGE_DUPLIQUER_ETABLISSEMENT</source>
+<target>هل ترغب في إنشاء إدارة جديدة انطلاقا من أخرى موجودة</target>
+</trans-unit>
+<trans-unit id="281">
+<source>ELEMENTS_DUPLIQUER</source>
+<target>عنصر للتكرار</target>
+</trans-unit>
+<trans-unit id="282">
+<source>RESSOURCES</source>
+<target>الموارد</target>
+</trans-unit>
+<trans-unit id="283">
+<source>TYPES_PRESTATIONS</source>
+<target>نوع الخدمة</target>
+</trans-unit>
+<trans-unit id="284">
+<source>PRESTATION</source>
+<target>الخدمة</target>
+</trans-unit>
+<trans-unit id="285">
+<source>COPIE</source>
+<target>نسخة</target>
+</trans-unit>
+<trans-unit id="286">
+<source>MSG_MISSING_PRESTATIONS</source>
+<target>لم يتم ربط هذا المورد بأي خدمة .</target>
+</trans-unit>
+<trans-unit id="287">
+<source>AJOUTER_JOUR_FERIE</source>
+<target>إضافة يوم عطلة</target>
+</trans-unit>
+<trans-unit id="288">
+<source>NOM_JOUR_FERIE</source>
+<target>إسم يوم العطلة</target>
+</trans-unit>
+<trans-unit id="289">
+<source>DATE</source>
+<target>التاريخ</target>
+</trans-unit>
+<trans-unit id="290">
+<source>MOIS</source>
+<target>الشهر</target>
+</trans-unit>
+<trans-unit id="291">
+<source>MOIS_PLRS</source>
+<target>أشهر</target>
+</trans-unit>
+<trans-unit id="292">
+<source>ANNEE</source>
+<target>السنة</target>
+</trans-unit>
+<trans-unit id="293">
+<source>IDENTIFICATION_JOUR_FERIE</source>
+<target>يوم عطلة</target>
+</trans-unit>
+<trans-unit id="294">
+<source>SUCCES_SUPRESSION_JOUR_FERIE</source>
+<target>تمت إزالة يوم العطلة</target>
+</trans-unit>
+<trans-unit id="295">
+<source>ERREUR_SUPRESSION_JOUR_FERIE</source>
+<target>حدث مشكل أثناء حذف يوم العطلة.</target>
+</trans-unit>
+<trans-unit id="296">
+<source>MSG_SUPPRESSION_JOUR_FERIE</source>
+<target>أنتم على وشك حذف يوم العطلة.</target>
+</trans-unit>
+<trans-unit id="297">
+<source>SUCCES_SUPRESSION_INDISPONIBILITE</source>
+<target>تم حذف فترة الغياب بنجاح .</target>
+</trans-unit>
+<trans-unit id="298">
+<source>ERREUR_SUPRESSION_INDISPONIBILITE</source>
+<target>حدث مشكل أثناء محاولة حذف فترة الغياب .</target>
+</trans-unit>
+<trans-unit id="299">
+<source>PERIODE_INDISPONIBIOLITE</source>
+<target>فترة الغياب</target>
+</trans-unit>
+<trans-unit id="300">
+<source>PERIODES_INDISPONIBIOLITE</source>
+<target>فترات الغياب</target>
+</trans-unit>
+<trans-unit id="301">
+<source>MSG_SUPPRESSION_PERIODE_INDISPONIBIOLITE</source>
+<target>أنتم على وشك حذف فترة الغياب</target>
+</trans-unit>
+<trans-unit id="302">
+<source>DATE_DEBUT</source>
+<target>تاريخ البداية</target>
+</trans-unit>
+<trans-unit id="303">
+<source>DATE_FIN</source>
+<target>تاريخ النهاية</target>
+</trans-unit>
+<trans-unit id="304">
+<source>CREE_LE</source>
+<target>مأخوذ</target>
+</trans-unit>
+<trans-unit id="305">
+<source>HORAIRE</source>
+<target>التوقيت</target>
+</trans-unit>
+<trans-unit id="306">
+<source>SAISIE_OBLIGATOIRE</source>
+<target>ملء الخانات إجباري</target>
+</trans-unit>
+<trans-unit id="307">
+<source>SAISIE_OBLIGATOIRE_DU</source>
+<target>ملء إجباري ل</target>
+</trans-unit>
+<trans-unit id="308">
+<source>CHAMPS_FORMULAIRE_CITOYEN</source>
+<target>الخانات التي يجب ملؤها من طرف المواطن</target>
+</trans-unit>
+<trans-unit id="309">
+<source>VISIBLE_RESSOURCE</source>
+<target>المورد ظاهر أثناء أخد الموعد</target>
+</trans-unit>
+<trans-unit id="310">
+<source>CHOIX_OBLIGATOIRE_RESSOURCE</source>
+<target>إختيار المورد إجباري أثناء أخذ موعد </target>
+</trans-unit>
+<trans-unit id="311">
+<source>REGLE_VALIDATION_MDP</source>
+<target>
+كلمات السر يجب أن تضم على الأقل ثمانية حروف متنوعة كالتالي :
+&lt;br /&gt;
+حروف كبيرة، حروف صغيرة، أرقام وحروف خاصة
+</target>
+</trans-unit>
+<trans-unit id="312">
+<source>TEXT_CONFIRME_MOT_PASSE</source>
+<target>تأكيد كلمة السر</target>
+</trans-unit>
+<trans-unit id="313">
+<source>DEFINE_ERREUR_SAISIE_MDP</source>
+<target>يجب إدخال نفس كلمة السر</target>
+</trans-unit>
+<trans-unit id="314">
+<source>CHAMPS</source>
+<target>خانة متغيرة</target>
+</trans-unit>
+<trans-unit id="315">
+<source>LIBELLE</source>
+<target>إسم</target>
+</trans-unit>
+<trans-unit id="316">
+<source>AJOUTER_CHAMP</source>
+<target>إضافة خانة</target>
+</trans-unit>
+<trans-unit id="317">
+<source>IMPRIMER_RECAP</source>
+<target>طباعة الملف الموجز</target>
+</trans-unit>
+<trans-unit id="318">
+<source>SEMAINE</source>
+<target>الأسبوع</target>
+</trans-unit>
+<trans-unit id="319">
+<source>HEURE</source>
+<target>الساعة</target>
+</trans-unit>
+<trans-unit id="320">
+<source>ETAT_RDV</source>
+<target>وضعية الموعد</target>
+</trans-unit>
+<trans-unit id="321">
+<source>RECHERCHER_RENDEZ_VOUS</source>
+<target>بداية البحث</target>
+</trans-unit>
+<trans-unit id="322">
+<source>AJOUTER_RENDEZ_VOUS</source>
+<target>إضافة موعد</target>
+</trans-unit>
+<trans-unit id="323">
+<source>AFFICHER_RDV_ANNULE</source>
+<target>عرض المواعيد الملغاة</target>
+</trans-unit>
+<trans-unit id="324">
+<source>EN_ATTENTE</source>
+<target>في الإنتظار</target>
+</trans-unit>
+<trans-unit id="325">
+<source>CONFIRME</source>
+<target>مؤكد</target>
+</trans-unit>
+<trans-unit id="326">
+<source>ANNULE</source>
+<target>ملغى</target>
+</trans-unit>
+<trans-unit id="327">
+<source>CHOISIR_AGENDA</source>
+<target>إختيار مفكرة</target>
+</trans-unit>
+<trans-unit id="328">
+<source>AFFICHER_AGENDA</source>
+<target>عرض المفكرة</target>
+</trans-unit>
+<trans-unit id="329">
+<source>CHOISIR_DATE</source>
+<target>اختيار تاريخ</target>
+</trans-unit>
+<trans-unit id="330">
+<source>AFFICHAGE</source>
+<target>عرض</target>
+</trans-unit>
+<trans-unit id="331">
+<source>CITOYEN</source>
+<target>صاحب الطلب</target>
+</trans-unit>
+<trans-unit id="332">
+<source>CONFIRMATION_ANNULATION</source>
+<target>هل تريد حقا إلغاء الموعد(المواعيد) المختار(ة)</target>
+</trans-unit>
+<trans-unit id="333">
+<source>ACTIONS_OK_RENDEZ_VOUS</source>
+<target>تم أخذ عمليتكم بعين الإعتبار</target>
+</trans-unit>
+<trans-unit id="334">
+<source>MSG_MOTIF</source>
+<target>المرجو إدخال سبب الإلغاء</target>
+</trans-unit>
+<trans-unit id="335">
+<source>MSG_CONFIRMATION</source>
+<target>هل تريد حقا تأكيد الموعد )المواعيد( المختار)ة(</target>
+</trans-unit>
+<trans-unit id="336">
+<source>ANNULATION_DE_VOTRE_DEMANDE_DE_RENDEZ_VOUS</source>
+<target>إلغاء الموعد</target>
+</trans-unit>
+<trans-unit id="337">
+<source>MSG_ANNULATION_DE_VOTRE_DEMANDE_DE_RENDEZ_VOUS</source>
+<target>نعتذر عن إلغاء موعدكم المتعلق ب</target>
+</trans-unit>
+<trans-unit id="338">
+<source>MSG_CONTACTER_NOUS</source>
+<target>الرجاء أخد موعد آخر عبر :</target>
+</trans-unit>
+<trans-unit id="339">
+<source>MSG_CONTACTER_NOUS_WEB</source>
+<target>البوابة الإلكترونية</target>
+</trans-unit>
+<trans-unit id="340">
+<source>MSG_CONTACTER_NOUS_TEL</source>
+<target>أو الهاتف </target>
+</trans-unit>
+<trans-unit id="341">
+<source>GESTION</source>
+<target>تسيير</target>
+</trans-unit>
+<trans-unit id="342">
+<source>TEXT_BIENVENUE_CONSOLE_ADMIN_RDV</source>
+<target>مرحبا بكم في بوابة أخد المواعيد مرحبا بكم في بوابة أخد المواعيد مرحبا بكم في بوابة أخد المواعيد مرحبا بكم في بوابة أخد المواعيد مرحبا بكم في بوابة أخد المواعيد مرحبا بكم في بوابة أخد المواعيد مرحبا بكم في بوابة أخد المواعيد </target>
+</trans-unit>
+<trans-unit id="343">
+<source>MODE_PRISE_RENDEZ_VOUS</source>
+<target>طريقة أخد الموعد</target>
+</trans-unit>
+<trans-unit id="344">
+<source>MODE</source>
+<target>عن طريق</target>
+</trans-unit>
+<trans-unit id="345">
+<source>SUR_PLACE</source>
+<target>في عين المكان</target>
+</trans-unit>
+<trans-unit id="346">
+<source>WEB</source>
+<target>الأنترنت</target>
+</trans-unit>
+<trans-unit id="347">
+<source>PHONE</source>
+<target>الهاتف</target>
+</trans-unit>
+<trans-unit id="348">
+<source>APPLICATION_MOBILE</source>
+<target>تطبيق الهاتف</target>
+</trans-unit>
+<trans-unit id="349">
+<source>DATE_CREATION</source>
+<target>تاريخ أخد الموعد</target>
+</trans-unit>
+<trans-unit id="350">
+<source>HEURE_CREATION</source>
+<target>ساعة أخد الموعد</target>
+</trans-unit>
+<trans-unit id="351">
+<source>DATE_RDV</source>
+<target>تاريخ الموعد</target>
+</trans-unit>
+<trans-unit id="352">
+<source>FERMER</source>
+<target>إغلاق</target>
+</trans-unit>
+<trans-unit id="353">
+<source>MSG_VALEUR_CHAMP_POSITIVE</source>
+<target>قيمة هذه الخانة يجب أن تكون أكبر من أو تساوي 0.</target>
+</trans-unit>
+<trans-unit id="354">
+<source>VISIBLE_PAR_LE_CITOYEN</source>
+<target>مرئي للمواطن</target>
+</trans-unit>
+<trans-unit id="355">
+<source>MSG_ERREUR_EXISTANCE_LOGIN</source>
+<target>إسم المستخدم الذي تم إختياره مستعمل.المرجو إختيار آخر .</target>
+</trans-unit>
+<trans-unit id="356">
+<source>MAIL_CREATION_COMPTE_PART1</source>
+<target>
+تم إنشاء حسابكم لدخول بوابة أخذ المواعيد.
+&lt;br /&gt;
+&lt;br /&gt;
+إسم المستخدم :
+</target>
+</trans-unit>
+<trans-unit id="357">
+<source>COMPTE_MAIL_PREFIXE_OBJET</source>
+<target>بوابة أخذ المواعيد</target>
+</trans-unit>
+<trans-unit id="358">
+<source>TRANS_CHAMP_VIDE</source>
+<target>-</target>
+</trans-unit>
+<trans-unit id="359">
+<source>MDPREC_OBJET_COURRIEL_COMPTE_MODIFIE</source>
+<target>تم تعديل حسابكم لدخول بوابة أخذ المواعيد</target>
+</trans-unit>
+<trans-unit id="360">
+<source>MAIL_MODIFICATION_IDENTIFIANT_PART1</source>
+<target>طلب عملية تعديل حسابكم لدخول بوابة أخذ المواعيد &lt;br /&gt;&lt;br /&gt; إسم المستخدم : </target>
+</trans-unit>
+<trans-unit id="361">
+<source>COMPTE_COMPTE_ACCES</source>
+<target>حسابكم لدخول البوابة</target>
+</trans-unit>
+<trans-unit id="362">
+<source>TRANS_MDP_ETOILE</source>
+<target>**********</target>
+</trans-unit>
+<trans-unit id="363">
+<source>MAIL_CREATION_IDENTIFIANT_PART2</source>
+<target> &lt;br /&gt;كلمة السر : </target>
+</trans-unit>
+<trans-unit id="364">
+<source>MAIL_CREATION_IDENTIFIANT_PART3</source>
+<target>&lt;br /&gt;&lt;br /&gt; يمكنكم تسجيل الدخول هنا : </target>
+</trans-unit>
+<trans-unit id="365">
+<source>MAIL_GENERATION_COMPTE_OF_PART4</source>
+<target>&lt;br /&gt;&lt;br /&gt; . يمكنكم تغيير معلوماتكم الشخصية بالدخول إلى القائمة الفرعية "حسابي" من الصفحة الرئسية لبوابة أخذ المواعيد </target>
+</trans-unit>
+<trans-unit id="366">
+<source>MAIL_CREATION_COMPTE_OF_PART6</source>
+<target>&lt;br /&gt;&lt;br /&gt; نشكركم على اخلاصكم &lt;br /&gt;</target>
+</trans-unit>
+<trans-unit id="367">
+<source>MAIL_CREATION_COMPTE_OF_PART7</source>
+<target>قطاع إصلاح الإدارة.</target>
+</trans-unit>
+<trans-unit id="368">
+<source>SUCCES_SUPRESSION_UTILISATEUR</source>
+<target>تم حذف المستخدم بنجاح .</target>
+</trans-unit>
+<trans-unit id="369">
+<source>ERREUR_SUPRESSION_UTILISATEUR</source>
+<target>حدث مشكل أثناء محاولات حذف المستخدم .</target>
+</trans-unit>
+<trans-unit id="370">
+<source>HEURE_DEBUT_SOIR_FIN_MATIN_INCCORECTE</source>
+<target>ساعة النهاية صباحا يجب أن تكون أصغر من ساعة البداية مساءاً</target>
+</trans-unit>
+<trans-unit id="371">
+<source>CONFIRMATION_ANNULATION_RDV</source>
+<target>هل تريد حقا إلغاء الموعد</target>
+</trans-unit>
+<trans-unit id="372">
+<source>CONFIRMATION_RDV</source>
+<target>هل تريد حقا تأكيد الموعد</target>
+</trans-unit>
+<trans-unit id="373">
+<source>AUCUNE_DISPONIBILITE</source>
+<target>لا يوجد أي وقت شاغر</target>
+</trans-unit>
+<trans-unit id="374">
+<source>MINUTE_ABR</source>
+<target>دقيقة</target>
+</trans-unit>
+<trans-unit id="375">
+<source>HEURES</source>
+<target>ساعة</target>
+</trans-unit>
+<trans-unit id="376">
+<source>MSG_VOIR_DETAIL_OU_ANNULER_RDV</source>
+<target>لرؤية تفاصيل موعدكم أو إالغائه، </target>
+</trans-unit>
+<trans-unit id="377">
+<source>CLIQUER_ICI</source>
+<target>إضغط هنا.</target>
+</trans-unit>
+<trans-unit id="378">
+<source>MSG_TEL_OU_EMAIL_OBLIGATOIRE</source>
+<target>عنوان البريد الإلكتروني أو الهاتف إلزامي</target>
+</trans-unit>
+<trans-unit id="379">
+<source>RECHERCHER_CITOYEN</source>
+<target>البحث عن صاحب الطلب</target>
+</trans-unit>
+<trans-unit id="380">
+<source>RAPPEL_DE_VOTRE_DEMANDE_DE_RENDEZ_VOUS</source>
+<target>تذكير الموعد :</target>
+</trans-unit>
+<trans-unit id="381">
+<source>FORMAT_TEL_INCORRECT</source>
+<target>رقم الهاتف غير صحيح (00 00 00 61 06 أو 00 00 00 61 6 212+ أو 00 00 00 61 6 0212)</target>
+</trans-unit>
+<trans-unit id="382">
+<source>PLUTOT</source>
+<target>في أسرع وقت ممكن</target>
+</trans-unit>
+<trans-unit id="383">
+<source>DANS_X_MOIS</source>
+<target>في كذا شهر</target>
+</trans-unit>
+<trans-unit id="384">
+<source>RECHERCHE</source>
+<target>بحث</target>
+</trans-unit>
+<trans-unit id="385">
+<source>RECHERCHE_ETENDUE</source>
+<target>بحث معمق</target>
+</trans-unit>
+<trans-unit id="386">
+<source>NOMBRE_MOIS</source>
+<target>عدد الأشهر</target>
+</trans-unit>
+<trans-unit id="387">
+<source>ETAPE_SUIVANTE</source>
+<target>الخطوة التالية</target>
+</trans-unit>
+<trans-unit id="388">
+<source>PRESTATION_OU_NOM_RESSOURCE</source>
+<target>خدمة أو اسم المورد</target>
+</trans-unit>
+<trans-unit id="389">
+<source>INDIFFERENT</source>
+<target>بدون إختيار</target>
+</trans-unit>
+<trans-unit id="390">
+<source>RAPPORT</source>
+<target>تقرير</target>
+</trans-unit>
+<trans-unit id="391">
+<source>NOMBRE_RENDEZ_VOUS</source>
+<target>عدد المواعيد</target>
+</trans-unit>
+<trans-unit id="392">
+<source>DELAI_OBTENTION</source>
+<target>المدة</target>
+</trans-unit>
+<trans-unit id="393">
+<source>EN_JOUR</source>
+<target>بالأيام</target>
+</trans-unit>
+<trans-unit id="394">
+<source>ACTIVITE</source>
+<target>المواعيد المتاحة</target>
+</trans-unit>
+<trans-unit id="395">
+<source>NOMBRE_TOTAL</source>
+<target>المجموع</target>
+</trans-unit>
+<trans-unit id="396">
+<source>NB_RESSOURCE</source>
+<target>عدد الموارد المتاحة خلال هذه المدة</target>
+</trans-unit>
+<trans-unit id="397">
+<source>CAPACITE</source>
+<target>عدد المواعيد المتاحة خلال هذه المدة</target>
+</trans-unit>
+<trans-unit id="398">
+<source>MOYENNE</source>
+<target>متوسط المواعيد المتاحة من قبل المورد خلال هذه المدة</target>
+</trans-unit>
+<trans-unit id="399">
+<source>ZOOMER_GRAPHE_PC</source>
+<target>انقر واسحب على الرسم للتكبير</target>
+</trans-unit>
+<trans-unit id="400">
+<source>ZOOMER_GRAPHE_MOBILE</source>
+<target>اسحب إصبعك على الرسم للتكبير</target>
+</trans-unit>
+<trans-unit id="401">
+<source>REINITIALISER_ZOOM</source>
+<target>إعادة ضبط التكبير</target>
+</trans-unit>
+<trans-unit id="402">
+<source>RETABLIR_NIVEAU_ZOOM</source>
+<target>مستوى التكبير 1:1</target>
+</trans-unit>
+<trans-unit id="403">
+<source>IMPRIMER_LE_GRAPHE</source>
+<target>طباعة الرسم البياني</target>
+</trans-unit>
+<trans-unit id="404">
+<source>TELECHARGER_IMAGE_PNG</source>
+<target>تحميل الصورة على شكل PNG</target>
+</trans-unit>
+<trans-unit id="405">
+<source>TELECHARGER_IMAGE_JPEG</source>
+<target>تحميل الصورة على شكل JPEG</target>
+</trans-unit>
+<trans-unit id="406">
+<source>TELECHARGER_IMAGE_PDF</source>
+<target>تحميل الصورة على شكل PDF</target>
+</trans-unit>
+<trans-unit id="407">
+<source>TELECHARGER_IMAGE_SVG</source>
+<target>تحميل الصورة على شكل SVG</target>
+</trans-unit>
+<trans-unit id="408">
+<source>MENU_GRAPHE</source>
+<target>قائمة الرسم البياني</target>
+</trans-unit>
+<trans-unit id="409">
+<source>TELECHARGER_EXCEL</source>
+<target>تحميل على شكل EXCEL</target>
+</trans-unit>
+<trans-unit id="410">
+<source>EXPORTER_EXCEL</source>
+<target>تحميل على شكل EXCEL</target>
+</trans-unit>
+<trans-unit id="411">
+<source>PERFORMANCE_GLOBALE</source>
+<target>الأداء العام</target>
+</trans-unit>
+<trans-unit id="412">
+<source>CLIQUER_SUR_LA_BULLE_POUR_AVOIR_LE_DETAIL_DE_L_ETABLISSEMENT</source>
+<target>لمزيد من التفاصيل، انقر على الدائرة</target>
+</trans-unit>
+<trans-unit id="413">
+<source>TOUS_ETABLISSEMENTS</source>
+<target>جميع الإدارات</target>
+</trans-unit>
+<trans-unit id="414">
+<source>MANQUE_CODE_RDV</source>
+<target>يجب عليك إدخال رمز التأكيد</target>
+</trans-unit>
+<trans-unit id="415">
+<source>POUR_PLUS_INFO</source>
+<target>لمزيد من المعلومات</target>
+</trans-unit>
+<trans-unit id="416">
+<source>CREATEUR</source>
+<target>الآخذ</target>
+</trans-unit>
+<trans-unit id="417">
+<source>OPERATEUR</source>
+<target>المستخدم</target>
+</trans-unit>
+<trans-unit id="418">
+<source>TIME_DEB_RDV</source>
+<target>وقت البدء</target>
+</trans-unit>
+<trans-unit id="419">
+<source>TIME_FIN_RDV</source>
+<target>وقت النهاية</target>
+</trans-unit>
+<trans-unit id="420">
+<source>RAPPORT_RENDEZ_VOUS</source>
+<target>قائمة المواعيد</target>
+</trans-unit>
+<trans-unit id="421">
+<source>CLIQUER_SUR_LA_BARRE_POUR_AVOIR_LE_DETAIL_DE_RDV</source>
+<target>لمزيد من التفاصيل، انقر على الشريط البياني</target>
+</trans-unit>
+<trans-unit id="422">
+<source>FREQUENCE_AFFICHAGE</source>
+<target>عرض الترددات</target>
+</trans-unit>
+<trans-unit id="423">
+<source>SAISIE_LIBRE</source>
+<target>ملء الخدمة </target>
+</trans-unit>
+<trans-unit id="424">
+<source>REFERENTIEL_PRESTATION</source>
+<target>مرجع</target>
+</trans-unit>
+<trans-unit id="425">
+<source>GESTION_REFERENTIEL_PRESTATIONS</source>
+<target>تسيير مراجع الخدمات</target>
+</trans-unit>
+<trans-unit id="426">
+<source>GESTION_REFERENTIEL_TYPES_PRESTATIONS</source>
+<target>تسيير مراجع نوع الخدمات</target>
+</trans-unit>
+<trans-unit id="427">
+<source>AJOUTER_REFERENTIEL_PRESTATION</source>
+<target>إضافة مرجع خدمة</target>
+</trans-unit>
+<trans-unit id="428">
+<source>LIBELLE_REFERENTIEL_PRESTATION</source>
+<target>إسم مرجع خدمة</target>
+</trans-unit>
+<trans-unit id="429">
+<source>IDENTIFICATION_REFERENTIEL_PRESTATION</source>
+<target>خصائص مرجع خدمة</target>
+</trans-unit>
+<trans-unit id="430">
+<source>SUCCES_SUPRESSION_REF_PRESTATION</source>
+<target>تم حذف مرجع الخدمة</target>
+</trans-unit>
+<trans-unit id="431">
+<source>ERREUR_SUPRESSION_REF_PRESTATION</source>
+<target>حدث مشكل أثناء محاولة حذف مرجع الخدمة</target>
+</trans-unit>
+<trans-unit id="432">
+<source>MSG_SUPPRESSION_REF_PRESTATION</source>
+<target>أنتم على وشك حذف مرجع الخدمة</target>
+</trans-unit>
+<trans-unit id="433">
+<source>JOUR_HORS_AGENDA</source>
+<target>يوم خارج أيام العمل</target>
+</trans-unit>
+<trans-unit id="434">
+<source>HORS_HORAIRE_DE_TRAVAIL</source>
+<target>خارج ساعات عمل المورد</target>
+</trans-unit>
+<trans-unit id="435">
+<source>RAISON_SOCIAL</source>
+<target>رقم بطاقة التعريف الوطنية</target>
+</trans-unit>
+<trans-unit id="436">
+<source>FAX</source>
+<target>فاكس</target>
+</trans-unit>
+<trans-unit id="437">
+<source>CHAMPS_VISIBLES</source>
+<target>إمكانية رؤية الحقول</target>
+</trans-unit>
+<trans-unit id="438">
+<source>PIECES_JOINTES</source>
+<target>المستندات المطلوبة عند تسجيل الوصول للموعد</target>
+</trans-unit>
+<trans-unit id="439">
+<source>PIECES_JOINTES_ADMIN</source>
+<target>المستندات المطلوبة عند تسجيل الوصول للموعد</target>
+</trans-unit>
+<trans-unit id="440">
+<source>PIECE_JOINTE</source>
+<target>ملف مرفق</target>
+</trans-unit>
+<trans-unit id="441">
+<source>AJOUTER_PIECE_JOINTE</source>
+<target>إضافة ملف مرفق</target>
+</trans-unit>
+<trans-unit id="442">
+<source>MODIFIER_PIECE_JOINTE</source>
+<target>تغيير الملف المرفق</target>
+</trans-unit>
+<trans-unit id="443">
+<source>TELECHARGER_PIECE_JOINTE</source>
+<target>تحميل الملف المرفق</target>
+</trans-unit>
+<trans-unit id="444">
+<source>NB_JOUR_RDV_SIMILAIRE</source>
+<target>الحد الأدنى من الأيام بين موعدين</target>
+</trans-unit>
+<trans-unit id="445">
+<source>AIDE_RECHERCHE_ETENDUE</source>
+<target>البحث المعمق يمكن من إنشاء مواعيد خارجة عن ساعات العمل الإعتيادية للمورد.</target>
+</trans-unit>
+<trans-unit id="446">
+<source>AIDE</source>
+<target>مساعدة</target>
+</trans-unit>
+<trans-unit id="447">
+<source>ACTIF</source>
+<target>نشط</target>
+</trans-unit>
+<trans-unit id="448">
+<source>AJOUTER_AU_CALENDRIER</source>
+<target>Ajouter au calendrier</target>
+</trans-unit>
+<trans-unit id="449">
+<source>GOOGLE_AGENDA</source>
+<target>مذكرة جوجل</target>
+</trans-unit>
+<trans-unit id="450">
+<source>OUTLOOK_AGENDA</source>
+<target>مذكرة اوتلوك</target>
+</trans-unit>
+<trans-unit id="451">
+<source>YAHOO_AGENDA</source>
+<target>مذكرة ياهو</target>
+</trans-unit>
+<trans-unit id="452">
+<source>HOTMAIL_AGENDA</source>
+<target>مذكرة هوتميل</target>
+</trans-unit>
+<trans-unit id="453">
+<source>ICAL_AGENDA</source>
+<target>مذكرة ايكال</target>
+</trans-unit>
+<trans-unit id="454">
+<source>VISIBLE_REFERENT</source>
+<target>السؤول المحيل</target>
+</trans-unit>
+<trans-unit id="455">
+<source>ALERTE_HEBDOMADAIRE</source>
+<target>تنبيه التقرير الأسبوعي</target>
+</trans-unit>
+<trans-unit id="456">
+<source>ALERTE_MENSUELLE</source>
+<target>تنبيه التقرير الشهري</target>
+</trans-unit>
+<trans-unit id="457">
+<source>RAPPORT_HEBDOMADAIRE</source>
+<target>التقرير الأسبوعي</target>
+</trans-unit>
+<trans-unit id="458">
+<source>RAPPORT_MENSUELLE</source>
+<target>التقرير الشهري</target>
+</trans-unit>
+<trans-unit id="459">
+<source>RAPPORT_PLUS_DETAIL</source>
+<target>انقر على الرابط لمزيد من التفاصيل</target>
+</trans-unit>
+<trans-unit id="460">
+<source>DATE_NAISSANCE</source>
+<target>تاريخ الميلاد</target>
+</trans-unit>
+<trans-unit id="461">
+<source>DONNER_AUTRE_RDV</source>
+<target>إعطاء موعد آخر</target>
+</trans-unit>
+<trans-unit id="462">
+<source>ANNULE_PAR_CITOYEN</source>
+<target>ملغى من طرف المواطن يوم </target>
+</trans-unit>
+<trans-unit id="463">
+<source>ANNULE_PAR_OPERATEUR</source>
+<target>ملغى من طرف المستخدم يوم </target>
+</trans-unit>
+<trans-unit id="464">
+<source>ANNULE_PAR_ADMINISTRATEUR</source>
+<target>ملغى من طرف المسؤول يوم </target>
+</trans-unit>
+<trans-unit id="465">
+<source>MODIFICATION_DUREE_RDV</source>
+<target>تغيير مدة الموعد</target>
+</trans-unit>
+<trans-unit id="466">
+<source>ERROR_DATE_NAISSANCE</source>
+<target>يجب أن يكون تاريخ الولادة أقل من التاريخ الحالي</target>
+</trans-unit>
+<trans-unit id="467">
+<source>STATUT</source>
+<target>الوضع</target>
+</trans-unit>
+<trans-unit id="468">
+<source>RENDEZ_VOUS_DU</source>
+<target>المواعيد من</target>
+</trans-unit>
+<trans-unit id="469">
+<source>RENDEZ_VOUS_AU</source>
+<target>إلى</target>
+</trans-unit>
+<trans-unit id="470">
+<source>HONORE</source>
+<target>موفى به</target>
+</trans-unit>
+<trans-unit id="471">
+<source>NON_HONORE</source>
+<target>متغيب</target>
+</trans-unit>
+<trans-unit id="472">
+<source>NON_HONORE_PAR</source>
+<target>لم يحترم من طرف</target>
+</trans-unit>
+<trans-unit id="473">
+<source>ANNULE_AGENT</source>
+<target>ألغي من قبل الوكيل</target>
+</trans-unit>
+<trans-unit id="474">
+<source>ANNULE_CITOYEN</source>
+<target>ألغي من قبل المواطن</target>
+</trans-unit>
+<trans-unit id="475">
+<source>ANNULE_ETAB</source>
+<target>ألغي من طرف الإدارة</target>
+</trans-unit>
+<trans-unit id="476">
+<source>NON_HONORE_CITOYEN</source>
+<target>لم يحترم من طرف المواطن</target>
+</trans-unit>
+<trans-unit id="477">
+<source>NON_HONORE_ETAB</source>
+<target>لم يحترم من طرف الإدارة</target>
+</trans-unit>
+<trans-unit id="478">
+<source>NON_DEFINI</source>
+<target>غير محدد</target>
+</trans-unit>
+<trans-unit id="479">
+<source>NON_HONORE_RDV</source>
+<target>هل تريد حقا تأكيد عدم حضور المواطن للموعد</target>
+</trans-unit>
+<trans-unit id="480">
+<source>ORGANISATION_FOOTER</source>
+<target>الوزارة</target>
+</trans-unit>
+<trans-unit id="481">
+<source>SERVICE_1_FOOTER</source>
+<target>صحتي</target>
+</trans-unit>
+<trans-unit id="482">
+<source>SERVICE_2_FOOTER</source>
+<target>الشكايات</target>
+</trans-unit>
+<trans-unit id="483">
+<source>RDV_GROUPE</source>
+<target>مواعيد متتالية</target>
+</trans-unit>
+<trans-unit id="484">
+<source>A_PARTIR_DE</source>
+<target>ابتداء من</target>
+</trans-unit>
+<trans-unit id="485">
+<source>INTERVAL</source>
+<target>الفاصل الزمني</target>
+</trans-unit>
+<trans-unit id="486">
+<source>POUR_LE</source>
+<target>ل</target>
+</trans-unit>
+<trans-unit id="487">
+<source>PARAMETRAGE_PRESTATIONS</source>
+<target>إعداد الخدمات</target>
+</trans-unit>
+<trans-unit id="488">
+<source>REFERENTIELS</source>
+<target>المراجع</target>
+</trans-unit>
+<trans-unit id="489">
+<source>AJOUTER_PRESTATIONS</source>
+<target>إضافة الخدمات</target>
+</trans-unit>
+<trans-unit id="490">
+<source>TYPES_PRESTATION</source>
+<target>أنواع الخدمات</target>
+</trans-unit>
+<trans-unit id="491">
+<source>CHOIX_PRESTATIONS</source>
+<target>اختيار خدمات الإدارة</target>
+</trans-unit>
+<trans-unit id="492">
+<source>AJOUTER_REFERENTIEL_TYPE_PRESTATION</source>
+<target>إضافة مرجع نوع الخدمة</target>
+</trans-unit>
+<trans-unit id="493">
+<source>JOURS_M</source>
+<target>يوما</target>
+</trans-unit>
+<trans-unit id="494">
+<source>ANNULE_LE</source>
+<target>ملغى يوم</target>
+</trans-unit>
+<trans-unit id="495">
+<source>ANNULE_PAR</source>
+<target>ملغى من طرف</target>
+</trans-unit>
+<trans-unit id="496">
+<source>DANS_X_JOURS</source>
+<target>في كذا يوم</target>
+</trans-unit>
+<trans-unit id="497">
+<source>NOMBRE_JOURS</source>
+<target>عدد الأيام</target>
+</trans-unit>
+<trans-unit id="498">
+<source>GESTION_REFERENTIEL_TYPE_PRESTATIONS</source>
+<target>إعداد مراجع نوع الخدمات</target>
+</trans-unit>
+<trans-unit id="499">
+<source>LIBELLE_REFERENTIEL_TYPE_PRESTATION</source>
+<target>إسم مرجع نوع الخدمة</target>
+</trans-unit>
+<trans-unit id="500">
+<source>ERREUR_SUPRESSION_REF_TYPE_PRESTATION</source>
+<target>حدث مشكل أثناء محاولة حذف مرجع نوع الخدمة</target>
+</trans-unit>
+<trans-unit id="501">
+<source>MSG_SUPPRESSION_REF_TYPE_PRESTATION</source>
+<target>أنتم على وشك حذف مرجع نوع الخدمة</target>
+</trans-unit>
+<trans-unit id="502">
+<source>INTITULE_LIEN1_FOOTER</source>
+<target>إسم الرابط الأول لأسفل الصفحة</target>
+</trans-unit>
+<trans-unit id="503">
+<source>LIEN1_FOOTER</source>
+<target>الرابط الأول لأسفل الصفحة</target>
+</trans-unit>
+<trans-unit id="504">
+<source>INTITULE_LIEN2_FOOTER</source>
+<target>إسم الرابط الثاني لأسفل الصفحة</target>
+</trans-unit>
+<trans-unit id="505">
+<source>LIEN2_FOOTER</source>
+<target>الرابط الثاني لأسفل الصفحة</target>
+</trans-unit>
+<trans-unit id="506">
+<source>INTITULE_LIEN3_FOOTER</source>
+<target>إسم الرابط الثالث لأسفل الصفحة</target>
+</trans-unit>
+<trans-unit id="507">
+<source>LIEN3_FOOTER</source>
+<target>الرابط الثالث لأسفل الصفحة</target>
+</trans-unit>
+<trans-unit id="508">
+<source>ACRONYME</source>
+<target>رمز المؤسسة</target>
+</trans-unit>
+<trans-unit id="509">
+<source>NOM_DOMAINE</source>
+<target>إسم الموقع</target>
+</trans-unit>
+<trans-unit id="510">
+<source>REPARTITION_MODE</source>
+<target>توزيع المواعيد حسب طريقة أخذ الموعد</target>
+</trans-unit>
+<trans-unit id="511">
+<source>REPARTITION_ETAT</source>
+<target>توزيع المواعيد حسب وضعية الموعد</target>
+</trans-unit>
+<trans-unit id="512">
+<source>REPARTITION_ETAB</source>
+<target>عدد المواعيد حسب الإدارة</target>
+</trans-unit>
+<trans-unit id="513">
+<source>REPARTITION_MOIS</source>
+<target>تطور المواعيد حسب الشهر</target>
+</trans-unit>
+<trans-unit id="514">
+<source>REPARTITION_ANNEE</source>
+<target>تطور المواعيد حسب السنة</target>
+</trans-unit>
+<trans-unit id="515">
+<source>PRESTATION_TYPE_PRESTATION</source>
+<target>توزيع المواعيد حسب نوع الخدمة</target>
+</trans-unit>
+<trans-unit id="516">
+<source>PRESTATION_PRESTATION</source>
+<target>توزيع المواعيد حسب الخدمة</target>
+</trans-unit>
+<trans-unit id="517">
+<source>PRESTATION_REGION</source>
+<target>عدد المواعيد حسب الجهة</target>
+</trans-unit>
+<trans-unit id="518">
+<source>GENERER_TELECHARGER_EXCEL</source>
+<target>إنشاء التقرير حسب طريقة أخد الموعد و تحميل على شكل EXCEL</target>
+</trans-unit>
+<trans-unit id="519">
+<source>GENERER_TELECHARGER_EXCEL_ETAT</source>
+<target>إنشاء التقرير حسب وضعية الموعد و تحميل على شكل EXCEL</target>
+</trans-unit>
+<trans-unit id="520">
+<source>8_A_10</source>
+<target>10h-8h</target>
+</trans-unit>
+<trans-unit id="521">
+<source>10_A_12</source>
+<target>12h-10h</target>
+</trans-unit>
+<trans-unit id="522">
+<source>12_A_14</source>
+<target>14h-12h</target>
+</trans-unit>
+<trans-unit id="523">
+<source>14_A_16</source>
+<target>16h-14h</target>
+</trans-unit>
+<trans-unit id="524">
+<source>16_A_18</source>
+<target>18h-16h</target>
+</trans-unit>
+<trans-unit id="525">
+<source>PREFERENCE</source>
+<target>التوقيت المستحب</target>
+</trans-unit>
+<trans-unit id="526">
+<source>AUCUN_RESULTAT</source>
+<target>لا يوجد نتائج</target>
+</trans-unit>
+<trans-unit id="527">
+<source>AFFICHER_RACCOURCIS</source>
+<target>عرض اختصارات لوحة المفاتيح</target>
+</trans-unit>
+<trans-unit id="528">
+<source>ACTIONS_ANNULATION_RENDEZ_VOUS_NOK</source>
+<target>
+يجب إختيار تاريخ المواعيد إما قبل أو بعد التاريخ الحالي
+&lt;br /&gt;
+حالة المواعيد السابقة يجب أن تكون متغيب، حالة المواعيد القادمة يجب أن تكون ملغاة
+</target>
+</trans-unit>
+<trans-unit id="529">
+<source>INFORMER_CITOYEN_ANNULATION_RDV_SMS</source>
+<target>إبلاغ صاحب الطلب عن طريق SMS بإلغاء موعده</target>
+</trans-unit>
+<trans-unit id="530">
+<source>INFORMER_CITOYENS_ANNULATION_RDV_SMS</source>
+<target>إبلاغ أصحاب الطلبات عن طريق SMS بإلغاء مواعدهم</target>
+</trans-unit>
+<trans-unit id="531">
+<source>CODE_ENVOI_SMS</source>
+<target>MAWIIDI</target>
+</trans-unit>
+<trans-unit id="532">
+<source>SMS_ANNULATION_DE_VOTRE_DEMANDE_DE_RENDEZ_VOUS</source>
+<target>تم إلغاء الموعد [DATE] المرجو الإتصال [TEL] أو mawiidi.ma</target>
+</trans-unit>
+<trans-unit id="533">
+<source>MOYENNE_DELAI</source>
+<target>متوسط المدة</target>
+</trans-unit>
+<trans-unit id="534">
+<source>MAX_DELAI</source>
+<target>أكبر مدة</target>
+</trans-unit>
+<trans-unit id="535">
+<source>MIN_DELAI</source>
+<target>أصغر مدة</target>
+</trans-unit>
+<trans-unit id="536">
+<source>ERROR_DATE_A_PARTIR</source>
+<target>يجب أن يكون التاريخ أكبر من التاريخ الحالي</target>
+</trans-unit>
+<trans-unit id="537">
+<source>ETABLISSEMENTS</source>
+<target>المؤسسات</target>
+</trans-unit>
+<trans-unit id="538">
+<source>TITRE_EXCEL_DELAI_PRESTA</source>
+<target>Evolution des délais moyens RDV par région, par prestation, par mois et par année</target>
+</trans-unit>
+<trans-unit id="539">
+<source>TITRE_EXCEL_DELAI_PRESTA_ETAB</source>
+<target>Evolution des délais moyens RDV par région, par prestation, par Hôpital, par mois et par année</target>
+</trans-unit>
+<trans-unit id="540">
+<source>TITRE_EXCEL_DELAI_ETAB</source>
+<target>Evolution des délais moyens RDV par région, par Hôpital, par mois et par année</target>
+</trans-unit>
+<trans-unit id="541">
+<source>TITRE_EXCEL_DELAI_ETAB_SUPP_1_MOIS</source>
+<target>Evolution des délais moyens RDV par région, par prestation (prestations dont les délai moyen RDV supérieur ou égale à 01 Mois) par Hôpital, par mois et par année</target>
+</trans-unit>
+<trans-unit id="542">
+<source>TITRE_EXCEL_DELAI_ETAB_SUPP_2_MOIS</source>
+<target>Evolution des délais moyens RDV par région, par prestation (prestations dont les délai moyen RDV supérieur ou égale à 02 Mois) par Hôpital, par mois et par année</target>
+</trans-unit>
+<trans-unit id="543">
+<source>EXCEL_EVOLUTION_DELAI</source>
+<target>تطور متوسط أوقات المواعيد</target>
+</trans-unit>
+<trans-unit id="544">
+<source>TYPE_CHAMPS</source>
+<target>نوع الحقل</target>
+</trans-unit>
+<trans-unit id="545">
+<source>TEXT</source>
+<target>نص</target>
+</trans-unit>
+<trans-unit id="546">
+<source>NUMERIC</source>
+<target>رقمي</target>
+</trans-unit>
+<trans-unit id="547">
+<source>LISTE</source>
+<target>لائحة</target>
+</trans-unit>
+<trans-unit id="548">
+<source>MULTICHOIX</source>
+<target>اختيار متعدد</target>
+</trans-unit>
+<trans-unit id="549">
+<source>AJOUT_MODIF_VALEURS_LISTE</source>
+<target>تعديل اللائحة</target>
+</trans-unit>
+<trans-unit id="550">
+<source>AFFICHAGE_LISTE_RESSOURCES</source>
+<target>عرض قائمة الموارد</target>
+</trans-unit>
+<trans-unit id="551">
+<source>PAR_NOM</source>
+<target>حسب الإسم</target>
+</trans-unit>
+<trans-unit id="552">
+<source>PAR_CODE</source>
+<target>حسب الرمز</target>
+</trans-unit>
+<trans-unit id="553">
+<source>CODE_RESSOURCE</source>
+<target>رمز المورد</target>
+</trans-unit>
+<trans-unit id="554">
+<source>CHAMPS_SUPPS</source>
+<target>حقول إضافية</target>
+</trans-unit>
+<trans-unit id="555">
+<source>GESTION_CHAMPS_SUPP</source>
+<target>تسيير حقول إضافية</target>
+</trans-unit>
+<trans-unit id="556">
+<source>AJOUTER_CHAMPS_SUPP</source>
+<target>إضافة حقل إضافي</target>
+</trans-unit>
+<trans-unit id="557">
+<source>CODE_CHAMPS</source>
+<target>رمز الحقل</target>
+</trans-unit>
+<trans-unit id="558">
+<source>IDENTIFICATION_CHAMPS_SUPP</source>
+<target>خصائص الحقل</target>
+</trans-unit>
+<trans-unit id="559">
+<source>COMPTE_UTILISATEUR</source>
+<target>حساب المستخدم</target>
+</trans-unit>
+<trans-unit id="560">
+<source>TELE_CONSULTATION</source>
+<target>إستشارة عن بعد</target>
+</trans-unit>
+<trans-unit id="561">
+<source>CHOIX_DE_LA_PRESTATION</source>
+<target>اختيار الخدمة</target>
+</trans-unit>
+<trans-unit id="562">
+<source>ACTIVER_LA_PRESTATION</source>
+<target>تفعيل الخدمة</target>
+</trans-unit>
+<trans-unit id="563">
+<source>VISIOCONFERENCE</source>
+<target>التداول بالفيديو</target>
+</trans-unit>
+<trans-unit id="564">
+<source>SE_CONNECTE_A_LA_TELE_CONSULTATION</source>
+<target>الاتصال بلاستشارة عن بعد</target>
+</trans-unit>
+<trans-unit id="565">
+<source>TEMPS_RESTANT</source>
+<target>الوقت المتبقي</target>
+</trans-unit>
+<trans-unit id="566">
+<source>ARRETER_APPEL</source>
+<target>إنهاء المكالمة</target>
+</trans-unit>
+<trans-unit id="567">
+<source>MSG_CONFIRM_TELECONSULTATION_1</source>
+<target>لبدء الاستقبال عن بعد ، يرجى الدخول قبل 5 دقائق من الوقت المتفق عليه على الرابط </target>
+</trans-unit>
+<trans-unit id="568">
+<source>MSG_CONFIRM_TELECONSULTATION_2</source>
+<target>أدخل رمز موعدكم و رقم هاتفكم أو بريدكم الالكتروني ، ثم انقر على "استشارة عن بعد"</target>
+</trans-unit>
+<trans-unit id="569">
+<source>LONGTEXT</source>
+<target>نص طويل</target>
+</trans-unit>
+<trans-unit id="570">
+<source>MENTIONS_LEGALES</source>
+<target>تنبيهات قانونية</target>
+</trans-unit>
+<trans-unit id="571">
+<source>CONDITIONS_GENERALES_TEXT</source>
+<target>أنا موافق على شروط الاستخدام</target>
+</trans-unit>
+<trans-unit id="572">
+<source>Code de validation</source>
+<target>رمز التأكيد</target>
+</trans-unit>
+<trans-unit id="573">
+<source>Veuillez saisir le code que vous avez reçu en mail</source>
+<target>يرجى إدخال الرمز الذي تلقيته في البريد الإلكتروني</target>
+</trans-unit>
+<trans-unit id="574">
+<source>Recevoir code par email</source>
+<target>إذا لم تستلم الرمز عبر رسالة قصيرة ، فانقر هنا لتلقي الرمز عبر البريد الإلكتروني</target>
+</trans-unit>
+<trans-unit id="575">
+<source>Code access</source>
+<target>رمز الدخول</target>
+</trans-unit>
+<trans-unit id="576">
+<source>Code</source>
+<target>الرمز</target>
+</trans-unit>
+<trans-unit id="577">
+<source>Voici le code d acces</source>
+<target>رمز الوصول للتطبيق الخاص بك</target>
+</trans-unit>
+<trans-unit id="578">
+<source>Code de validation incorrect</source>
+<target>رمز التحقق غير صحيح</target>
+</trans-unit>
+<trans-unit id="579">
+<source>TYPE_RDV</source>
+<target>نوع الموعد</target>
+</trans-unit>
+<trans-unit id="580">
+<source>Sur place</source>
+<target>استقبال حضوريا</target>
+</trans-unit>
+<trans-unit id="581">
+<source>Teleaccueil</source>
+<target>استقبال عن بعد</target>
+</trans-unit>
+<trans-unit id="582">
+<source>NOM_PRENOM</source>
+<target>الإسم</target>
+</trans-unit>
+<trans-unit id="583">
+<source>CHAMP_SUPP1</source>
+<target>حقل إضافي 1</target>
+</trans-unit>
+<trans-unit id="584">
+<source>CHAMP_SUPP2</source>
+<target>حقل إضافي 2</target>
+</trans-unit>
+<trans-unit id="585">
+<source>CHAMP_SUPP3</source>
+<target>حقل إضافي 3</target>
+</trans-unit>
+<trans-unit id="586">
+<source>REAFFECTATION</source>
+<target>إحالة</target>
+</trans-unit>
+<trans-unit id="587">
+<source>RESSOURCES_LIBRE</source>
+<target>الموارد الحرة</target>
+</trans-unit>
+<trans-unit id="588">
+<source>RESSOURCE_NON_DISPONIBLE</source>
+<target>لم يعد المورد متاحًا</target>
+</trans-unit>
+<trans-unit id="589">
+<source>DESACTIVE</source>
+<target>غير نشط</target>
+</trans-unit>
+<trans-unit id="590">
+<source>VISIBLE_POUR_PRDV</source>
+<target>مرئي لأخذ المواعيد</target>
+</trans-unit>
+<trans-unit id="591">
+<source>VISIBLE_POUR_REAFFECTATION</source>
+<target>مرئي فقط عند إحالة المواعيد</target>
+</trans-unit>
+<trans-unit id="592">
+<source>AFFECTATION_DES_RDV</source>
+<target>إحالة المواعيد</target>
+</trans-unit>
+<trans-unit id="593">
+<source>DUPLIQUER_LA_RESSOURCE</source>
+<target>تكرير المورد</target>
+</trans-unit>
+<trans-unit id="594">
+<source>MODIFIER_LA_RESSOURCE</source>
+<target>تعديل المورد</target>
+</trans-unit>
+<trans-unit id="595">
+<source>GROUPE</source>
+<target>مجموعة</target>
+</trans-unit>
+<trans-unit id="596">
+<source>La piece doit etre uploade par le citoyen</source>
+<target>يجب تحميل المستندات من قبل المواطن</target>
+</trans-unit>
+<trans-unit id="597">
+<source>TELECHARGER_PJS</source>
+<target>تحميل المستندات</target>
+</trans-unit>
+<trans-unit id="598">
+<source>TELECHARGER_LE_MODELE</source>
+<target>قم بتنزيل النموذج</target>
+</trans-unit>
+<trans-unit id="599">
+<source>ENREGISTRER_PJS</source>
+<target>احفظ المرفقات</target>
+</trans-unit>
+<trans-unit id="600">
+<source>Remplissez les champs ci-dessous</source>
+<target>املأ الحقول أدناه</target>
+</trans-unit>
+<trans-unit id="601">
+<source>VOS_PIECES_JOINTES_ONT_ETE_ENREGISTRES</source>
+<target>تم حفظ المرفقات الخاصة بك</target>
+</trans-unit>
+<trans-unit id="602">
+<source>ERREUR_LORS_DE_LA_SAUVEGARDE</source>
+<target>حدث خطأ أثناء الحفظ</target>
+</trans-unit>
+<trans-unit id="603">
+<source>Lors de la prise de rdv en ligne</source>
+<target>عند أخذ الموعد عبر الإنترنت</target>
+</trans-unit>
+<trans-unit id="604">
+<source>Lors de l'accueil en présentiel</source>
+<target>أثناء الاستقبال وجهاً لوجه</target>
+</trans-unit>
+<trans-unit id="605">
+<source>Lors de l'accueil en visio conférence</source>
+<target>أثناء الاستقبال عن بعد</target>
+</trans-unit>
+<trans-unit id="606">
+<source>PARTAGE_RECAP</source>
+<target>مشاركة الملف الموجز</target>
+</trans-unit>
+<trans-unit id="607">
+<source>CONFIRME_RECAP</source>
+<target>هل أنت متأكد أنك تريد مشاركة الملف الموجز مع المواطن؟</target>
+</trans-unit>
+<trans-unit id="608">
+<source>FICHIER_RECAPE_A_ETE_PARTAGER_AVEC_LE_CITOYEN</source>
+<target>تمت مشاركة الملف الموجز مع المواطن</target>
+</trans-unit>
+<trans-unit id="609">
+<source>FILE_SIZE</source>
+<target>  2MB حجم الملف لا يجب أن يتجاوز </target>
+</trans-unit>
+<trans-unit id="610">
+<source>FILE_TYPE</source>
+<target>  يجب أن يكون الملف من نوع pdf أو صورة (jpeg، jpg، png، ..) </target>
+</trans-unit>
+</body>
+</file>
+</xliff>
