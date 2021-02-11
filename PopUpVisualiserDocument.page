@@ -1,0 +1,26 @@
+<%@MasterClass="Application.layouts.Popup"%>
+
+<com:TContent ID="CONTENU_PAGE">
+    <div class="popup popup-large2">
+
+        <div class="bloc">
+            <iframe title="<%=$this->nomFile%>" id="frame" style="border: 0px;" frameborder="0" height="100%" width="100%" src="<%=$this->url%>" allowfullscreen webkitallowfullscreen></iframe>
+        </div>
+    </div>
+
+    <com:TRepeater ID="listeFiles">
+        <prop:ItemTemplate>
+            <input type="hidden" class="files" value="<%#$this->DataItem%>"/>
+        </prop:ItemTemplate>
+    </com:TRepeater>
+
+    <script>
+        var iframe = J("#frame");
+        if(parent.window) {
+            iframe.height(J( parent.window ).height()-220);
+        }
+        else {
+            iframe.height(J(window).height() - 220);
+        }
+    </script>
+</com:TContent>
